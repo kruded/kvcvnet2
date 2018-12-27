@@ -9,11 +9,11 @@
     <name>Moodle</name>
 
     <description>
-        Moodle official app
+        KVC Smart App
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://app.kvc.ac.th" email="kruded@kvc.ac.th">
+        KVC Smart App
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
